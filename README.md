@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hola, soy Rubén
 
-<!--
-**Ruben-Repila/Ruben-Repila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador de aplicaciones y sistemas informáticos.  
+Me apasiona crear herramientas útiles y aprender nuevas tecnologías.  
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
+- **GestorClientes**: Aplicación web con PHP y PostgreSQL.
+- **VPN Configurator**: Script para automatizar VPNs en redes empresariales.
+- **DataImporter**: Herramienta para importar datos de Excel/CSV a PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+- **Correo:** ruben@example.com  
+- **LinkedIn:** [linkedin.com/in/rubenrepila](https://linkedin.com/in/rubenrepila)
+
+> 💬 “Nunca dejes de aprender; el código siempre tiene algo nuevo que enseñar.”
