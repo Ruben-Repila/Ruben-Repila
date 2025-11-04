@@ -11,4 +11,4 @@ Me apasiona crear herramientas útiles y aprender nuevas tecnologías.
 - **Correo:** ruben.repila28@gmail.com  
 - **LinkedIn:** [https://www.linkedin.com/in/ruben-repila-ruiz-270420346)
 
-> 💬 “Nunca dejes de aprender; el código siempre tiene algo nuevo que enseñar.”
+> 💬 “Nunca dejes de aprender, el código siempre tiene algo nuevo que enseñar.”
