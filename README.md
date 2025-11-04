@@ -1,15 +1,14 @@
 # 👋 Hola, soy Rubén
 
-Soy un desarrollador de aplicaciones y sistemas informáticos.  
+Soy un técnico Superior en Administración de Sistemas Informáticos en Red. 
 Me apasiona crear herramientas útiles y aprender nuevas tecnologías.  
 
 ## 🚀 Proyectos destacados
-- **GestorClientes**: Aplicación web con PHP y PostgreSQL.
-- **VPN Configurator**: Script para automatizar VPNs en redes empresariales.
+- **GestionClientes**: Aplicación web con PHP y PostgreSQL.
 - **DataImporter**: Herramienta para importar datos de Excel/CSV a PostgreSQL.
 
 ## 📫 Contacto
-- **Correo:** ruben@example.com  
+- **Correo:** ruben.repila28@gmail.com  
 - **LinkedIn:** [linkedin.com/in/rubenrepila](https://linkedin.com/in/rubenrepila)
 
 > 💬 “Nunca dejes de aprender; el código siempre tiene algo nuevo que enseñar.”
