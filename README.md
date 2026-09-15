@@ -9,6 +9,6 @@ Me apasiona crear herramientas útiles y aprender nuevas tecnologías.
 
 ## 📫 Contacto
 - **Correo:** ruben.repila28@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/ruben-repila-ruiz-270420346)
+- **LinkedIn:** www.linkedin.com/in/ruben-repila28
 
 > 💬 “Nunca dejes de aprender, el código siempre tiene algo nuevo que enseñar.”
